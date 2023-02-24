@@ -1,7 +1,7 @@
 PosixSpawn
 ==========
 
-[![Build Status](https://img.shields.io/github/workflow/status/macmade/PosixSpawn/ci-mac?label=macOS&logo=apple)](https://github.com/macmade/PosixSpawn/actions/workflows/ci-mac.yaml)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/macmade/PosixSpawn/ci-mac.yaml?label=macOS&logo=apple)](https://github.com/macmade/PosixSpawn/actions/workflows/ci-mac.yaml)
 [![Issues](http://img.shields.io/github/issues/macmade/PosixSpawn.svg?logo=github)](https://github.com/macmade/PosixSpawn/issues)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg?logo=git)
 ![License](https://img.shields.io/badge/license-mit-brightgreen.svg?logo=open-source-initiative)  
